@@ -11,6 +11,11 @@ DGL==0.6.1
 
 ### Quick Start
 
+Unzip datas in the ROOT directory :
+```
+tar -xzvf datas.tar.gz
+```
+
 To train and evaluate our method, run the following command in the ROOT directory :
 ```
 bash train_domain.sh
