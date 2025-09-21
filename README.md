@@ -1,3 +1,10 @@
+# [NeurIPS 2025] GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation
+
+This repository is the official implementation of "GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation" accepted by the Main Technical Track of NeurIPS-2025.
+
+<p align="center">
+<img src="Framework.png" width="100%" class="center" alt="logo"/>
+</p>
 
 ### Environment
 
@@ -20,3 +27,13 @@ To train and evaluate our method, run the following command in the ROOT director
 ```
 bash train_domain.sh
 ```
+
+### Citation
+If you find this repository helpful, please consider citing the following paper. We welcome any discussions with [guozh@buaa.edu.cn](mailto:guozh@buaa.edu.cn).
+
+```bibtex
+
+```
+
+### Acknowledgements
+Part of this code is inspired by [CGLB](https://github.com/QueuQ/CGLB) and [TPP](https://github.com/mala-lab/TPP). We owe sincere thanks to their valuable efforts and contributions.
