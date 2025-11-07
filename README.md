@@ -32,10 +32,16 @@ bash train_domain.sh
 If you find this repository helpful, please consider citing the following paper. We welcome any discussions with [guozh@buaa.edu.cn](mailto:guozh@buaa.edu.cn).
 
 ```bibtex
-
+@article{guo2025graphkeeper,
+  title={GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation},
+  author={Guo, Zihao and Sun, Qingyun and Zhang, Ziwei and Yuan, Haonan and Zhuang, Huiping and Fu, Xingcheng and Li, Jianxin},
+  journal={arXiv preprint arXiv:2511.00097},
+  year={2025}
+}
 ```
 
 ### Acknowledgements
 Part of this code is inspired by [CGLB](https://github.com/QueuQ/CGLB) and [TPP](https://github.com/mala-lab/TPP). We owe sincere thanks to their valuable efforts and contributions.
+
 
 
